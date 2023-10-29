@@ -1,1 +1,2 @@
-# Diabities-prediction[Uploading README.md…]()
+# Diabities-prediction
+
